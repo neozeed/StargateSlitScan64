@@ -1,5 +1,7 @@
 # StargateSlitScan64
 
+![Stargate Slit-Scan Screensaver in action](stargate.gif)
+
 ### A 1968 optical effect, reconstructed as a native Windows x64 screensaver.
 
 **A little piece of *2001: A Space Odyssey* for your desktop.**
@@ -12,7 +14,7 @@ No browser. No web service. No installer. Just a native Win32 executable, a GPU,
 
 ## See it in motion
 
-https://github.com/YOUR-USERNAME/StargateSlitScan64
+https://github.com/neozeed/StargateSlitScan64
 
 ![Stargate screen saver in action](docs/stargate-preview.gif)
 
