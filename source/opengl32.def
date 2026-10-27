@@ -1,0 +1,16 @@
+LIBRARY OPENGL32.dll
+EXPORTS
+wglCreateContext
+wglMakeCurrent
+wglDeleteContext
+wglGetProcAddress
+glViewport
+glClearColor
+glClear
+glGenTextures
+glBindTexture
+glTexImage2D
+glTexParameteri
+glBegin
+glVertex2f
+glEnd

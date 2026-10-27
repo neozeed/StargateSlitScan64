@@ -1,0 +1,9 @@
+LIBRARY KERNEL32.dll
+EXPORTS
+GetModuleHandleW
+GetModuleHandleA
+GetCommandLineW
+ExitProcess
+QueryPerformanceCounter
+QueryPerformanceFrequency
+Sleep
